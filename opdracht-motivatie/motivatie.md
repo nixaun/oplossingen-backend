@@ -1,0 +1,2 @@
+## Ik heb voor MT gekozen omdat ik geïnteresseerd ben in de front-end van websites, meer bepaald het grafische aspect (graphic design). Tot nu toe heb ik hier al veel van bijgeleerd, want ik ben begonnen als een complete noob op dit vlak. #
+## Wat ik er sterk aan vind is dat het zelfstudie is, op deze manier leer ik relatief efficiënt. Alleen is voor mij dit type van coderen relatief moeilijk en zou ik iets meer info nodig hebben in de cursus. #
