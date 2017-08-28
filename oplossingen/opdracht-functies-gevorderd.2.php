@@ -11,11 +11,11 @@
             if($kans <= 40)
             {
                 $pigHealth--;
-                return "Raak! Er zijn nog maar ", pigHealth, " varkens over.";
+                return "Raak! Er zijn nog maar ". $pigHealth. " varkens over.";
             }
             else
             {
-                return "Mis! Er zijn nog ", pigHealth, " varkens over.";
+                return "Mis! Er zijn nog ". $pigHealth. " varkens over.";
             }
         }
 

@@ -1,0 +1,10 @@
+<section>
+	<?php foreach ($articles as $id => $article): ?>
+		<article>
+			<h1><?= $article[ 'title' ] ?></h1>
+			<p><?= $article[ 'body' ] ?></p>
+			<p><?= $article[ 'tags' ] ?></p>
+			<a href="opdracht-include-require.php?artikel=<?= $id ?>">lees meer</a>
+		</article>
+	<?php endforeach ?>
+</section>
